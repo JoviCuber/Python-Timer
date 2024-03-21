@@ -1,4 +1,5 @@
 # TimerX
+> Use TimerX with included assets or use it as a shortcut.
 
 TimerX is your dynamic time management solution, designed exclusively for Windows 10 users. With its colorful interface and integrated Windows 10 clock sounds, TimerX adds a touch of vibrancy to your productivity routine.
 
